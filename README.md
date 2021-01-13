@@ -1,1 +1,3 @@
-Steady State sample readme.
+# Steady State sample readme.
+
+![picture](figures/logo.png)
