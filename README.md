@@ -1,3 +1,3 @@
 # Steady State sample readme.
 
-![picture](figures/logo.png)
+![picture](figures/bubbles.jpg)
